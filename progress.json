@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T04:45:49.630Z",
+  "generated_at": "2026-11-21T04:46:23.148Z",
   "items": {
     "problem:4": {
       "kind": "problem",
@@ -24,6 +24,19 @@
       "path": "problems/0283-implement-hinge-loss-for-svm",
       "first_solved_at": "2026-11-21T04:45:39.424Z",
       "last_pushed_at": "2026-11-21T04:45:39.424Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:282": {
+      "kind": "problem",
+      "id": "282",
+      "title": "Calculate SVM Margin Width",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/282",
+      "path": "problems/0282-calculate-svm-margin-width",
+      "first_solved_at": "2026-11-21T04:46:23.116Z",
+      "last_pushed_at": "2026-11-21T04:46:23.116Z",
       "language": "python",
       "lines": 15
     }
