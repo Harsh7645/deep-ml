@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T04:46:23.148Z",
+  "generated_at": "2026-11-24T13:40:54.075Z",
   "items": {
     "problem:4": {
       "kind": "problem",
@@ -39,6 +39,19 @@
       "last_pushed_at": "2026-11-21T04:46:23.116Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:280": {
+      "kind": "problem",
+      "id": "280",
+      "title": "Implement RBF (Gaussian) Kernel Function",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/280",
+      "path": "problems/0280-implement-rbf-gaussian-kernel-function",
+      "first_solved_at": "2026-11-24T13:40:57.852Z",
+      "last_pushed_at": "2026-11-24T13:40:57.852Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
